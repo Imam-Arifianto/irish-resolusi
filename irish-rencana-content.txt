@@ -1,0 +1,6 @@
+RENCANA KONTEN IRISH
+
+- Javascript
+- PHP Frameworks
+- Interview
+- Laravel
