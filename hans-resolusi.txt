@@ -1,0 +1,5 @@
+Halo bro, salam kenal nama saya Hans dari Bandung
+
+Resolusi saya :
+- Membuat website menggunakan framework javascript
+- Bekerja di start-up
